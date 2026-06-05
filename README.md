@@ -9,17 +9,17 @@ Presented at the **UBC School of Biomedical Engineering 2026 Symposium**, Vancou
 
 ---
 
-## Poster
-
-The full poster is available here: [SBME_Symposium2026_Poster.pdf](./SBME_Symposium2026_AbdulBasitZia.pdf)
-![Poster](./SBME_Symposium2026_AbdulBasitZia.png)
----
-
 ## Overview
 
 This repository ties together two case studies that share a single question: clean accuracy can hide class level fragility, and two models that score the same on clean data may preserve very different information underneath. The poster brings both studies under one diagnostic protocol, so this repo sits between the two separate project repositories listed below.
 
 The work treats robustness as a property of representations and data rather than architecture. Using PCA on penultimate features alongside representation drift and confusion drift as joint diagnostics, it shows that failures are structured and class specific, with predictable confusion directions.
+
+## Poster
+
+The full poster is available here: [SBME_Symposium2026_Poster.pdf](./SBME_Symposium2026_AbdulBasitZia.pdf)
+![Poster](./SBME_Symposium2026_AbdulBasitZia.png)
+---
 
 ## Two modalities, one protocol
 
