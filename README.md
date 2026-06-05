@@ -12,7 +12,7 @@ Presented at the **UBC School of Biomedical Engineering 2026 Symposium**, Vancou
 ## Poster
 
 The full poster is available here: [SBME_Symposium2026_Poster.pdf](./SBME_Symposium2026_AbdulBasitZia.pdf)
-
+![Poster](./SBME_Symposium2026_AbdulBasitZia.png)
 ---
 
 ## Overview
@@ -64,4 +64,4 @@ This poster combines results from two underlying projects, each with its own rep
 Abdul Basit Zia, PhD
 EMPIRe Lab, School of Engineering, UBC Okanagan
 abzia7@student.ubc.ca
-GitHub: [your-username]
+GitHub: (https://github.com/abdulbasitzia)
