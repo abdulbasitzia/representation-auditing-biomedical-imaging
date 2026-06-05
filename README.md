@@ -11,7 +11,7 @@ Presented at the **UBC School of Biomedical Engineering 2026 Symposium**, Vancou
 
 ## Poster
 
-The full poster is available here: [SBME_Symposium2026_Poster.pdf](./SBME_Symposium2026_Poster.pdf)
+The full poster is available here: [SBME_Symposium2026_Poster.pdf](./SBME_Symposium2026_AbdulBasitZia.pdf)
 
 ---
 
@@ -51,8 +51,8 @@ Both are trained on clean data and tested under brightness, contrast, blur, and 
 
 This poster combines results from two underlying projects, each with its own repository:
 
-- Histopathology corruption robustness: [PASTE FIRST REPO URL]
-- Droplet agglutination representation analysis: [PASTE SECOND REPO URL]
+- Histopathology corruption robustness: [histopathology-corruption-robustness](https://github.com/abdulbasitzia/histopathology-corruption-robustness)
+- Droplet agglutination representation analysis: [hogsvm-vs-cnn-agglutination-classification](https://github.com/abdulbasitzia/hogsvm-vs-cnn-agglutination-classification)
 
 ## References
 
